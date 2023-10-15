@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.darciocarvalho.todolist.TodolistApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.794 s - in br.com.darciocarvalho.todolist.TodolistApplicationTests

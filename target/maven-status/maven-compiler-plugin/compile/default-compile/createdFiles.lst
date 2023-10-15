@@ -1,0 +1,10 @@
+br/com/darciocarvalho/todolist/utils/Utils.class
+br/com/darciocarvalho/todolist/filter/FilterTaskAuth.class
+br/com/darciocarvalho/todolist/task/TaskController.class
+br/com/darciocarvalho/todolist/task/TaskModel.class
+br/com/darciocarvalho/todolist/task/ITaskRepository.class
+br/com/darciocarvalho/todolist/TodolistApplication.class
+br/com/darciocarvalho/todolist/user/UserModel.class
+br/com/darciocarvalho/todolist/user/UserController.class
+br/com/darciocarvalho/todolist/errors/ExceptionHandlerController.class
+br/com/darciocarvalho/todolist/user/IUserRepository.class
